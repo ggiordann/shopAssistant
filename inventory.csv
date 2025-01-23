@@ -1,0 +1,62 @@
+Category,Subcategory,Gender,Product Name,Brand,Price (AUD),Short Description,SKU
+Footwear,Running,Womens,Asics Gel-Kayano 28,Asics,229.99,High-stability running shoe - rearfoot cushioning,ASW-001
+Footwear,Running,Womens,Nike Air Zoom Pegasus 39,Nike,179.99,Breathable mesh upper - Zoom Air cushioning,NAW-002
+Footwear,Running,Womens,Adidas Ultraboost 22,Adidas,259.99,Energy-return boost midsole - comfortable for distance,ADW-003
+Footwear,Running,Womens,Brooks Ghost 14,Brooks,219.99,Lightweight design - neutral support - smooth transitions,BRW-004
+Footwear,Training,Womens,Reebok Nano X2,Reebok,199.99,Versatile training shoe - crossfit-ready - HIIT-friendly,RBW-005
+Footwear,Walking,Womens,New Balance 411,New Balance,99.99,Everyday walking shoe - cushioned midsole,NBW-006
+Footwear,Sneakers,Womens,Puma Cali Bold,Puma,139.99,Stylish casual sneaker - chunky sole,PUW-007
+Footwear,Running,Mens,Asics Adi 5,Asics,189.99,Lightweight running shoe - supportive upper,ASM-008
+Footwear,Running,Mens,Nike ZoomX Vaporfly Next%,Nike,329.99,Elite marathon racer - ultra-responsive ZoomX foam,NAM-009
+Footwear,Running,Mens,New Balance Fresh Foam 1080,New Balance,209.99,Plush cushioning - breathable knit upper,NBM-010
+Footwear,Running,Mens,Brooks Adrenaline GTS 22,Brooks,219.99,Stability running shoe - guide rails for support,BRM-011
+Footwear,Training,Mens,Nike Metcon 7,Nike,179.99,Flat stable base - ideal for heavy lifting,NAM-012
+Footwear,Walking,Mens,Skechers GOwalk 5,Skechers,119.99,Slip-on comfort - responsive cushioning,SKM-013
+Footwear,Sneakers,Mens,Adidas Originals Superstar,Adidas,149.99,Iconic shell-toe design - timeless style,ADM-014
+Footwear,Running,Kids,Asics Children Ghazi,Asics,89.99,Breathable mesh upper - flexible sole,ASK-015
+Footwear,Running,Kids,Nike Downshifter 11,Nike,79.99,Lighter kids' runner - great for daily play,NAK-016
+Footwear,Training,Kids,Adidas Duramo 10,Adidas,69.99,Lightweight trainer - multi-sport use,ADK-017
+Footwear,Sneakers,Kids,Puma Smash V2,Puma,59.99,Court-inspired sneaker - classic silhouette,PUK-018
+Clothing,Shorts,Womens,Nike Dri-FIT Tempo Shorts,Nike,34.99,Lightweight running shorts - moisture-wicking,NSW-019
+Clothing,Leggings,Womens,Under Armour HeatGear Leggings,Under Armour,69.99,Compression fit - quick-dry - breathable,UAW-020
+Clothing,Tops,Womens,Adidas Winners 2.0 Tee,Adidas,39.99,Soft cotton-blend tee - casual comfort,ADW-021
+Clothing,Jackets,Womens,Running Bare Momentum Jacket,Running Bare,99.99,Lightweight shell - water-resistant - ideal for running,RBW-022
+Clothing,Shorts,Mens,Nike Flex Stride Shorts,Nike,44.99,Breathable 2-in-1 design - built-in liner,NSM-023
+Clothing,Tops,Mens,Adidas Badge of Sport Tee,Adidas,34.99,Classic cotton tee - bold adidas logo,ADM-024
+Clothing,Hoodies,Mens,Reebok Training Essentials Hoodie,Reebok,64.99,Fleece-lined hoodie - warm everyday layer,RBM-025
+Clothing,Track Pants,Mens,Puma Essential Track Pants,Puma,54.99,Comfortable fit - elastic waistband,PUM-026
+Clothing,Tops,Kids,Nike Sportswear Futura Tee,Nike,29.99,Cotton tee - iconic Nike logo,NAK-027
+Clothing,Shorts,Kids,Under Armour Prototype Shorts,Under Armour,34.99,Lightweight mesh shorts - suitable for sports,UAK-028
+Clothing,Hoodies,Kids,Adidas Youth ID Hoodie,Adidas,59.99,Pullover hoodie - front kangaroo pocket,ADK-029
+Clothing,Socks,Unisex,2XU Compression Socks,2XU,49.99,Graduated compression - improved blood flow,2XU-030
+Accessories,Bags,Unisex,Nike Brasilia Backpack,Nike,59.99,Spacious main compartment - laptop sleeve,NAB-031
+Accessories,Bags,Unisex,Under Armour Undeniable Duffle 4.0,Under Armour,74.99,Water-resistant duffle - adjustable strap,UAB-032
+Accessories,Bags,Unisex,Adidas Tiro Ball Sack,Adidas,24.99,Lightweight drawstring bag - easy carry,ADB-033
+Accessories,Hats,Unisex,New Era 9FORTY Cap,New Era,39.99,Adjustable strap-back - curved visor,NEU-034
+Accessories,Sunglasses,Unisex,Oakley Holbrook,Oakley,219.99,Classic design - UV protection,OKU-035
+Accessories,Sunglasses,Unisex,Goodr OG Running Sunglasses,Goodr,49.99,No-slip - no-bounce design - glare reduction,GDU-036
+Accessories,Fitness,Womens,Spalding Yoga Mat 5mm,Spalding,39.99,Extra grip mat - ideal for yoga or stretching,SPW-037
+Accessories,Fitness,Unisex,PTP Resistance Bands (Set of 3),PTP,34.99,Light - medium - heavy resistance levels,PTU-038
+Accessories,Electronics,Unisex,Garmin Forerunner 55,Garmin,329.99,GPS running watch - heart rate monitor,GMU-039
+Accessories,Electronics,Unisex,Fitbit Charge 5,Fitbit,249.99,Advanced health tracker - built-in GPS,FTU-040
+Accessories,Balls,Unisex,Spalding NBA All Surface Basketball,Spalding,49.99,Durable rubber cover - indoor/outdoor play,SPU-041
+Accessories,Balls,Unisex,Sherrin AFL Kangaroo Brand Football,Sherrin,79.99,Premium leather - Aussie rules footy,SHU-042
+Accessories,Rackets,Unisex,Wilson Ultra Tennis Racket,Wilson,229.99,Lightweight graphite frame - easy power,WIU-043
+Accessories,Rackets,Unisex,Head Ti. Instinct Comp Tennis Racket,Head,119.99,Balanced for power - good control,HEU-044
+Team Sports,Cricket,Mens,Gray-Nicolls GN 1000 Bat,Gray-Nicolls,299.99,Mid-blade sweet spot - premium English willow,GNM-045
+Team Sports,Cricket,Mens,Kookaburra Kahuna Pro Bat,Kookaburra,349.99,Large edges - powerful profile,KKM-046
+Team Sports,Cricket,Unisex,Gray-Nicolls Elite Wicket Keeping Gloves,Gray-Nicolls,129.99,Reinforced finger ends - durable leather,GNW-047
+Team Sports,Basketball,Unisex,Nike Elite Pro Basketball,Nike,49.99,Deep channels - durable exterior,NBB-048
+Team Sports,Basketball,Unisex,Spalding TF-1000 Legacy,Spalding,99.99,Moisture management cover - professional grip,SPL-049
+Team Sports,Rugby,Mens,Steeden NRL Match Ball,Steeden,39.99,Textured surface - official size 5,STN-050
+Swimming,Goggles,Unisex,Speedo Fastskin Elite,Speedo,59.99,Anti-fog lenses - hydrodynamic profile,SPG-051
+Swimming,Goggles,Unisex,Arena Cobra Ultra,Arena,79.99,Low-profile design - wide vision,ARG-052
+Swimming,Swimwear,Womens,Speedo Powerback One Piece,Speedo,79.99,Chlorine-resistant fabric - racerback design,SPW-053
+Swimming,Swimwear,Mens,Adidas Infinitex+ Jammer,Adidas,49.99,Four-way stretch material - snug fit,ADJ-054
+Gym Equipment,Weights,Unisex,Powertrain Adjustable Dumbbells 24kg,Powertrain,329.99,Fast weight adjustment - compact design,PTD-055
+Gym Equipment,Weights,Unisex,Bowflex SelectTech 552 Dumbbells,Bowflex,599.99,15 weight settings - space-saving solution,BFD-056
+Gym Equipment,Cardio,Unisex,ProForm Carbon T7 Treadmill,ProForm,1499.99,Incline training - built-in workouts,PFM-057
+Gym Equipment,Cardio,Unisex,Concept2 Model D Rower,Concept2,1599.99,Air resistance - performance monitor included,CON-058
+Gym Equipment,Benches,Unisex,Force USA Flat Bench,Force USA,169.99,Heavy-duty steel frame - thick padding,FUB-059
+Gym Equipment,Benches,Unisex,Impulse Adjustable Bench,Impulse,399.99,Multiple incline settings - solid construction,IMB-060
+Accessories, Quantum Computer, Unisex, IBM Quantum System One, IBM, 11000000.99, Quantum computer - 27 qubits, IBM-001
